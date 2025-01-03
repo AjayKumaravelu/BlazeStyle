@@ -50,6 +50,10 @@ To run this project locally, follow these steps:
   open index.html
 
 ## 📂 Project Structure
+
+The project is organized as follows:
+
+```plaintext
 BlazeStyle/
 ├── index.html        # Main HTML file
 ├── styles/
@@ -58,6 +62,7 @@ BlazeStyle/
 │   └── main.js       # JavaScript file for interactivity
 ├── images/           # Folder containing image assets
 └── README.md         # Documentation
+
 
 ## 📝 License
 This project is open-source and available under the MIT License.
