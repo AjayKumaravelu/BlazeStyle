@@ -43,27 +43,27 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/blaze-style.git
 2. Navigate to the project folder:
-   bash
-  cd blaze-style
+   ```bash
+   cd blaze-style
 3. Open the index.html file in your favorite browser:
-   bash
-  open index.html
+   ```bash
+   open index.html
 
 ## 📂 Project Structure
 
 The project is organized as follows:
 
-```plaintext
-BlazeStyle/
-├── index.html        # Main HTML file
-├── styles/
-│   └── style.css     # CSS file for styling
-├── scripts/
-│   └── main.js       # JavaScript file for interactivity
-├── images/           # Folder containing image assets
-└── README.md         # Documentation
+   ```plaintext
+   BlazeStyle/
+   ├── index.html        # Main HTML file
+   ├── styles/
+   │   └── style.css     # CSS file for styling
+   ├── scripts/
+   │   └── main.js       # JavaScript file for interactivity
+   ├── images/           # Folder containing image assets
+   └── README.md         # Documentation
 
-
+```
 ## 📝 License
 This project is open-source and available under the MIT License.
 
